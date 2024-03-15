@@ -9,8 +9,8 @@ public class Programa {
         // Ex07.executar();
         // Ex08.executar();
         // Ex09.executar();
-        Ex10.executar();
-        // Ex11.executar();
+        // Ex10.executar();
+        Ex11.executar();
         // Ex12.executar();
         // Ex13.executar();
         // Ex14.executar();
