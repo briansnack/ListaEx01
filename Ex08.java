@@ -11,9 +11,6 @@ public class Ex08 {
             } else{
                 System.out.println("Número menor que 50");
             }
-
-
-
         leitor.close();
         }
     }
