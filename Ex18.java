@@ -5,13 +5,13 @@ public class Ex18 {
     public static void executar(){
         Scanner leitor = new Scanner(System.in);{
             System.out.println("Nota 1: ");
-            int nota1 = leitor.nextInt();
+            double nota1 = leitor.nextDouble();
 
             System.out.println("Nota 2: ");
-            int nota2 = leitor.nextInt();
+            double nota2 = leitor.nextDouble();
 
             System.out.println("Nota 3: ");
-            int nota3 = leitor.nextInt();
+            double nota3 = leitor.nextDouble();
 
             double mediaH = 3 / ((1.0 / nota1) + (1.0 / nota2) + (1.0 / nota3));
             
