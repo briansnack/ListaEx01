@@ -1,5 +1,4 @@
 import java.text.DecimalFormat;
-import java.util.Scanner;
 
 public class Ex15 {
     public static void executar(){
